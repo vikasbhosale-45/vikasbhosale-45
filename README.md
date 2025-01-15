@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Vikas Abasaheb Bhosale</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
-<img align="right" alt="Coding" Width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" Width="400" src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 <p align="left"> <a href="https://twitter.com/@vikasbhosale_45" target="blank"><img src="https://img.shields.io/twitter/follow/@vikasbhosale_45?logo=twitter&style=for-the-badge" alt="@vikasbhosale_45" /></a> </p>
 
 - 🌱 I’m currently learning **mern full stack course form udemy**
