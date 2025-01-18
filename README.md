@@ -1,4 +1,4 @@
-![logo](https://github.com/vikasbhosale-45/vikasbhosale-45/blob/main/Make%20your%20README.png)
+![logo](https://github.com/vikasbhosale-45/vikasbhosale-45/blob/main/github-banner.png)
 
 <h1 align="center">Hi 👋, I'm Vikas Abasaheb Bhosale</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
