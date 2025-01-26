@@ -11,6 +11,9 @@
 <p align="left"> <a href="https://twitter.com/vikasbhosale_45" target="blank"><img src="https://img.shields.io/twitter/follow/@vikasbhosale_45?logo=twitter&style=for-the-badge" alt="@vikasbhosale_45" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasbhosale-45&label=Profile%20views&color=0e75b6&style=flat" alt="vikasbhosale-45" /> </p>
 
+ 
+-  🔭 Currently pursuing **BCS at Willingdon College, Sangli.**
+  
 - 🌱 I’m currently learning **mern full stack course form udemy**
 
 - 💬 Ask me about **react,express,node,mongodb,sql,bootstrap,js,etc**
