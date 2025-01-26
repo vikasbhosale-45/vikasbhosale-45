@@ -41,13 +41,12 @@ B
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/vikasbhosale_45"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vikasbhosale_45" /></a></p><br><br>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+ <h2 align="center">🐍 My Contributions 🐍</h2>
+<picture>
 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vikasbhosale-45/vikasbhosale-45/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vikasbhosale-45/vikasbhosale-45/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/vikasbhosale-45/vikasbhosale-45/output/github-snake.svg" />
-</div>
+</picture>
 
 <p align="right"><a href="#top">Back to TOP 🔝 </a></p>
