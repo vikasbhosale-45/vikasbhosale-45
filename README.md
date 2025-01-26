@@ -1,12 +1,15 @@
 ![logo](https://github.com/vikasbhosale-45/vikasbhosale-45/blob/main/github-banner.png )
 
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=900&height=60&duration=4000&lines=A+passionate+Full-stack+developer+from+India+👋;" />
 </h1>
+
+
 <!-- <h2 align="center">A passionate Full-Stack developer from India</h2> -->
 <img align="right" alt="Coding" Width="400" src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 <p align="left"> <a href="https://twitter.com/vikasbhosale_45" target="blank"><img src="https://img.shields.io/twitter/follow/@vikasbhosale_45?logo=twitter&style=for-the-badge" alt="@vikasbhosale_45" /></a> </p>
-B
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasbhosale-45&label=Profile%20views&color=0e75b6&style=flat" alt="vikasbhosale-45" /> </p>
 - 🌱 I’m currently learning **mern full stack course form udemy**
 
 - 💬 Ask me about **react,express,node,mongodb,sql,bootstrap,js,etc**
