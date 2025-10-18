@@ -12,11 +12,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasbhosale-45&label=Profile%20views&color=0e75b6&style=flat" alt="vikasbhosale-45" /> </p>
 
  
--  🔭 Currently pursuing **BCS at Willingdon College, Sangli.**
+-  🔭 Currently pursuing **MCA from KIT college , kolhapur**
   
 - 🌱 I’m currently learning **mern full stack course form udemy**
 
-- 💬 Ask me about **react,express,node,mongodb,sql,bootstrap,js,etc**
+- 💬 Ask me about **react,express,node,mongodb,sql,bootstrap,js,java**
 
 - 📫 How to reach me **vikasbhosale161@gmail.com**
 
